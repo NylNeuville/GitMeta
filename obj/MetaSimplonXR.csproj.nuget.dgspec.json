@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nylneuville/Desktop/MetaSimplonXR/MetaSimplonXR.csproj": {}
+  },
+  "projects": {
+    "/Users/nylneuville/Desktop/MetaSimplonXR/MetaSimplonXR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nylneuville/Desktop/MetaSimplonXR/MetaSimplonXR.csproj",
+        "projectName": "MetaSimplonXR",
+        "projectPath": "/Users/nylneuville/Desktop/MetaSimplonXR/MetaSimplonXR.csproj",
+        "packagesPath": "/Users/nylneuville/.nuget/packages/",
+        "outputPath": "/Users/nylneuville/Desktop/MetaSimplonXR/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nylneuville/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
