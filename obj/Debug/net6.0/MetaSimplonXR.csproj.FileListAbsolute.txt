@@ -1,0 +1,15 @@
+/Users/nylneuville/Desktop/MetaSimplonXR/bin/Debug/net6.0/MetaSimplonXR
+/Users/nylneuville/Desktop/MetaSimplonXR/bin/Debug/net6.0/MetaSimplonXR.deps.json
+/Users/nylneuville/Desktop/MetaSimplonXR/bin/Debug/net6.0/MetaSimplonXR.runtimeconfig.json
+/Users/nylneuville/Desktop/MetaSimplonXR/bin/Debug/net6.0/MetaSimplonXR.dll
+/Users/nylneuville/Desktop/MetaSimplonXR/bin/Debug/net6.0/MetaSimplonXR.pdb
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.csproj.AssemblyReference.cache
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.AssemblyInfoInputs.cache
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.AssemblyInfo.cs
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.csproj.CoreCompileInputs.cache
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.dll
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/refint/MetaSimplonXR.dll
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.pdb
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/MetaSimplonXR.genruntimeconfig.cache
+/Users/nylneuville/Desktop/MetaSimplonXR/obj/Debug/net6.0/ref/MetaSimplonXR.dll
